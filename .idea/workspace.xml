@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springboot-project:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ab5e2c8-f9f6-4a75-9fe5-8dd5486b2948" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/GsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/colorbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/external.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_durex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_ggj_prize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_index_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ad_rising.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/addnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/alert.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/arr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/backtop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/bbs_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/bbs_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/bbs_side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/bgwall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/brackets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/breakline.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/buttons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/c_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/check_popbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/checkbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/close_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/close_notice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/collection_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/collection_tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/confirm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/control_current.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/corners.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/du_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/expire_tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/expired_tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_btn_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_btn_green_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_btn_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_btn_red_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_comma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_register.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footbar_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/footerbar_repeat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ggj_repeat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/gotPrize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/gotPrize01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/gotPrize02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/hc_list_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/hc_list_bg_curr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/homeNoResult.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/horizontal.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/hot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/icon_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/icon_file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/icon_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index_ad_rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index_resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/index_s01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jd_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jd_dot_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jd_dot_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jd_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jiathis_ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jiathis_ico_24x24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/jiathis_ico_32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/job_122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/job_122_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/job_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/lb_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/login_btm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/logo_upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/menu_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/menu_check.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/msg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/myjob_option1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/myjob_option2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/no1234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noResumeReceived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noreply.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noresult.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noresult_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noresult_95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/noticeDot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/offer_status.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/open_services_steps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/overlay01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/overlay02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/overlay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/partner_enter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/position_del.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/preview_btn_unverify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_cover_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_op.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_select_139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_select_190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_select_287.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_select_410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/profile_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/progress_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/publish_tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/qr_cloud_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/qr_cloud_resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/qr_index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/qr_register.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/qrcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/quote_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/quote_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/radioSel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/radio_checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/record_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/registor_now.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/remind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_dashed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_preview_btns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_tip_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_tip_joblist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_tip_unhandle_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_tip_unhandle_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_tip_unhandle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resume_web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/resumeset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/reward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/reward_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/right_reason.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/s_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/s_choose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/s_drop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/saoma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/saowo_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/saowo_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/select.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/select_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/select_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/select_short.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/service_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/sina-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/square.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/starsPop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/status_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/status_dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/sub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/sub_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/subscribe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/subscribe_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/thumb_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/tip_didi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/tip_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/tipclose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/tipclose_b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/title_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/title_arrow01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/title_arrow_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/unread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/unresume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/unvalid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/upload_file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/user_choose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/user_warn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/valid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/vertical.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/wbqq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/welcome_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/img/xs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/jiathis_share.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/style.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/css/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/05ca024b95d242bb8178edaa5bd1b25a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/11c812bedb4a481fa06ca488dac2f23f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/2bba2b71d0b0443eaea1774f7ee17c9f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/329b56ef443c4ae2a2024955f58705f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/354d445c5fd84f1990b91eb559677eb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/381b343557774270a508206b3a725f39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/3ad1d8845e8345019006b38cd45302c0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/4469b1b83b1f46c7adec255c4b1e4802.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/451a3ab87bb149a5b0779baf81f0a667.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/5caf8f9631114bf990f87bb11360653e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/73338ca8e1694b298d223745670f8daf_318969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/7fdf693be1044ed8a71f561420162a3b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/8d63eda78f714d2dacb0e5d201bbce2e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/8e05f869fe0640318d62c562d6a9a322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/a254b11ecead45bda166afa8aaa9c8bc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/aboutus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/b533f6e729e74b418fcd6862bbde95dc_318969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/c0052c69ef4546c3b7d08366d0744974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/c5e0d4d3dc9047c89986c9eca2feb277.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/c75654bc2ab141df8218983cfe5c89f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/c9d8a0756d1442caa328adcf28a38857.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/cloud_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/cloud_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/companylist_qr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/copyright_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/d03110162390422bb97cebc7fd2ab586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/d05a2cc6e6c94bdd80e074eb05e37ebd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/d1f91afa15eb451eaef4d14dcb3b54ec_318969.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/default_headpic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/e802e0078d194e76afbb7abb102af275.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/f4822a445a8b495ebad81fcfad3e40e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/f57de6b836fa454ebd13c41537e152ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff80808140ac5ed90140b953972e0215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff80808142a8df050142b1674c596676.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff80808142e0968f0142e0d41f1205f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff8080814356e881014357741e5910f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff808081441c19bf01441f9a47190b3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff80808145ae05750145b0467a1c7ddd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/ff80808146d99c970146efd983ea016a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/footbar_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/get_flash_player.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/addrPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/bgs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/mapctrls1d3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/mapctrls2d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/mapctrls2d0_mb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/markers_new_ie6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/node.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/nodeT.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/img/sel_body_n_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/job_qr_btm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/jquery_school.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/leader_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/linuxcn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/logo_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/logo_default01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/mapctrls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/mapctrls2d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/marker_red_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/muke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/product_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/psw_step1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/qr_delivery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/qr_resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/qrcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/quote_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/quote_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/rising280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/step1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/step2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/step3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/step4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/step5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/subject280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/tiponce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/valid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/w3cplus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/weibo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/wx1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/wx2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/wx3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/zhouyou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/images/zhubajie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/ajaxCross.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/ajaxfileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/allmobilize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/analytics01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/certification.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/collections.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/company.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/company_list.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/conv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/delivery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/excanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/h.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/home.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/job_detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/job_list.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jobs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery-hbzx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery.1.10.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery.colorbox-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery.lib.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery.tinymce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/jquery.ui.datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/profile.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/received_resumes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/services.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/step1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/step2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/step3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/step4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/step5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/sub.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/swfobject_modified.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/tongji.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/style/js/wb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/accountBind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/auth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/authSuccess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/autoFilterResumes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/bindStep2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/bindStep3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/bindstep1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/canInterviewResumes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/collections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/companylist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/delivery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/founder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/haveRefuseResumes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/jianli.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/jobdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/jobdetail1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/mList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/myhome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/positions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/subscribe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/subscribe01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/toudi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/updatePwd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cac78122-191c-4a80-8c8a-7d647ca72b29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cac78122-191c-4a80-8c8a-7d647ca72b29.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/classes/com/kaixuan/springbootproject/project/index/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/classes/com/kaixuan/springbootproject/project/index/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/classes/com/kaixuan/springbootproject/redisConfig/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/classes/com/kaixuan/springbootproject/redisConfig/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springboot_project_war_exploded/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/springboot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-kai/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-mvc-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-project/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-recruit/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="suppermarket@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="suppermarket@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="127" column="47" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-project/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="maibatisXML" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opsForValue</find>
+      <find>fl</find>
+      <find>listbox</find>
+      <find>a</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoController.java" />
+        <option value="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/springboot-mvc-mybatis/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/springboot-mvc-mybatis/mvcmybatis整合" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/user/UserService.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/筛选页.html" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/user/User.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/user/mybatis-UserMpper.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoMapper.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/demoMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/config/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/config/去网上色.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/qw.java" />
+        <option value="$PROJECT_DIR$/springboot-project/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/UserRedis.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/User.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/test/java/com/kaixuan/springbootproject/SpringbootProjectApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot-kai/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/springboot-kai/src/main/java/com/kx/springbootkai/study/TestController.java" />
+        <option value="$PROJECT_DIR$/springboot-kai/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kai/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/demo.jsp" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoService.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoController.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/SessionUtil.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/orderxq.html" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/css/public.css" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.html" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/js/leader-js/public.js" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/springboot-project/记录" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImol.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/GsonUtil.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexService.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoController.java" />
+        <option value="$PROJECT_DIR$/springboot-recruit/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/css.html" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/css/index.css" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index.html" />
+        <option value="$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="31" />
+    <option name="y" value="24" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kaixuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kaixuan" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kaixuan" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootproject" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kaixuan" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootproject" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-test" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-kai/src/main/webapp/WEB-INF/web.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2040521" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project\src\main\webapp\WEB-INF" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project\src\main\resources\static" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-mybatis\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kaixuan.springbootmvcmybatis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-recruit\src\main" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-recruit\src\main\java\com\recruit\springbootrecruit" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-recruit\src\main\resources" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project\src\main\java\com\kaixuan\springbootproject\project\index" />
+      <recent name="D:\BaiduNetdiskDownload\springboot-test\springboot-project\src\main\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.项目">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SpringbootMybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaixuan.springbootmybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kaixuan.springbootmybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.kaixuan.springbootmybatis.SpringbootMybatisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringbootProjectApplicationTests.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaixuan.springbootproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kaixuan.springbootproject" />
+      <option name="MAIN_CLASS_NAME" value="com.kaixuan.springbootproject.SpringbootProjectApplicationTests" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringbootKaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-kai" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kx.springbootkai.SpringbootKaiApplication" />
+    </configuration>
+    <configuration name="SpringbootMvcMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mvc-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaixuan.springbootmvcmybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaixuan.springbootmvcmybatis.SpringbootMvcMybatisApplication" />
+    </configuration>
+    <configuration name="SpringbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaixuan.springbootmybatis.SpringbootMybatisApplication" />
+    </configuration>
+    <configuration name="SpringbootProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaixuan.springbootproject.SpringbootProjectApplication" />
+    </configuration>
+    <configuration name="SpringbootRecruitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-recruit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.recruit.springbootrecruit.SpringbootRecruitApplication" />
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="招聘" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="springboot-recruit:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_springboot-test_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59823" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="59824" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="springboot-recruit:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="kai" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="springboot-kai:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_springboot-test" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58067" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="58070" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="springboot-mvc-mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_(1)_springboot-test" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1001" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65164" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="65165" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringbootKaiApplication" />
+      <item itemvalue="Spring Boot.SpringbootMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringbootProjectApplication" />
+      <item itemvalue="Spring Boot.SpringbootRecruitApplication" />
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="Tomcat Server.项目" />
+      <item itemvalue="Tomcat Server.招聘" />
+      <item itemvalue="Tomcat Server.mybatis" />
+      <item itemvalue="Tomcat Server.kai" />
+      <item itemvalue="JUnit.SpringbootMybatisApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringbootProjectApplicationTests.get" />
+      <item itemvalue="Spring Boot.SpringbootMvcMybatisApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootProjectApplicationTests.get" />
+        <item itemvalue="Spring Boot.SpringbootMvcMybatisApplication" />
+        <item itemvalue="JUnit.SpringbootMybatisApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kaixuan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab5e2c8-f9f6-4a75-9fe5-8dd5486b2948" name="Default" comment="" />
+      <created>1551341112206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551341112206</updated>
+      <workItem from="1551341114425" duration="16768000" />
+      <workItem from="1551501946783" duration="19754000" />
+      <workItem from="1551748902817" duration="8874000" />
+      <workItem from="1551835921670" duration="6360000" />
+      <workItem from="1551851186537" duration="7805000" />
+      <workItem from="1551921502339" duration="815000" />
+      <workItem from="1551967683141" duration="2725000" />
+      <workItem from="1552007591409" duration="13113000" />
+      <workItem from="1552267485160" duration="576000" />
+      <workItem from="1552387248752" duration="530000" />
+      <workItem from="1552440310254" duration="584000" />
+      <workItem from="1552470040166" duration="1544000" />
+    </task>
+    <task id="LOCAL-00001" summary="redis  缓存测试">
+      <created>1551845001908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551845001908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 13m 08s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 13m 53s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 20m 11s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 23m 17s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 29m 45s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 33m 15s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 34m 06s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 10h 34m 35s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 17h 35m 37s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringbootProjectApplicationTests_get - 2019.03.05 at 18h 28m 40s.xml">
+      <configuration name="SpringbootProjectApplicationTests.get" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79448000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.50075644" side_tool="true" weight="0.21617162" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.50082374" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49924356" visible="true" weight="0.13036303" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31353134" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32838285" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.66831684" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="10" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.28290468" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="7" sideWeight="0.5010526" side_tool="true" weight="0.2708018" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32838285" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.28547856" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redis  缓存测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis  缓存测试" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/kaixuan/springbootmybatis/controller/UserController.java</url>
+          <line>21</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-mvc-mybatis/src/main/java/com/kaixuan/springbootmvcmybatis/demo/DemoController.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/test/java/com/kaixuan/springbootproject/SpringbootProjectApplicationTests.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/test/java/com/kaixuan/springbootproject/SpringbootProjectApplicationTests.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/UserRedis.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/UserRedis.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoController.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-kai/src/main/java/com/kx/springbootkai/study/TestController.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImpl.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImpl.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoController.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springboot-project/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/js/leader-js/public.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/title2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/okwu-athletics.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/okwu.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/logo2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/logo.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/header.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/footer.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/emancipation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/bartlesvillecf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/记录">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/GsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/demo/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/js/login/login.js" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/404.jsp" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/SpringbootRecruitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/target/classes/com/recruit/springbootrecruit/demo/DemoMapper.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/target/classes/com/recruit/springbootrecruit/demo/DemoController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/message.jsp" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/java/com/recruit/springbootrecruit/demo/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/css.html" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="77" column="20" selection-start-line="66" selection-start-column="6" selection-end-line="77" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/project/index/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="127" column="47" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springboot-project:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2040521" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (springboot-kai)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2040521" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springboot-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2040521" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2040521" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2040521" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

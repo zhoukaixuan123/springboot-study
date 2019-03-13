@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot-kai" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mvc-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/3.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/bartlesvillecf.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/emancipation.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/footer.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/header.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/header.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/logo.gif" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/logo2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/okwu-athletics.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/okwu.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/img/title2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/java/com/kaixuan/springbootproject/redisConfig" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/WEB-INF/views/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/bank_img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/demonstration_Img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/fonts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/image" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-project/src/main/webapp/products" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/WEB-INF/views/message.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/bank_img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/demonstration_Img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/fonts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/image" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-recruit/src/main/webapp/products" charset="GBK" />
+  </component>
+</project>

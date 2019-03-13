@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kaixuan.springbootproject.project.index.IndexMapper">
+
+    <select id="getIndexData" resultType="java.util.HashMap" >
+       select
+          commodity_describe,
+          commodity_fl,
+          commodity_gg,
+          commodity_id,
+          commodity_price,
+          commodity_rmcd,
+          commodity_url
+       from  shop_commodity order by commodity_gg desc
+    </select>
+</mapper>

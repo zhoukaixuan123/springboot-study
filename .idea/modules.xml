@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-kai/springboot-kai.iml" filepath="$PROJECT_DIR$/springboot-kai/springboot-kai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mvc-mybatis/springboot-mvc-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mvc-mybatis/springboot-mvc-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-project/springboot-project.iml" filepath="$PROJECT_DIR$/springboot-project/springboot-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-recruit/springboot-recruit.iml" filepath="$PROJECT_DIR$/springboot-recruit/springboot-recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-test.iml" filepath="$PROJECT_DIR$/.idea/springboot-test.iml" />
+    </modules>
+  </component>
+</project>

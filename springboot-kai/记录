@@ -1,0 +1,44 @@
+1.springboot   返回 jsp
+
+###外部依赖
+       <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+
+###配置文件
+    配置文件 在main  包下创建 webapp/WEB-INF/views
+    spring.mvc.view.prefix=/WEB-INF/views/
+    spring.mvc.view.suffix=.jsp
+##入口 实现SpringBootServletInitializer  类 重写
+    @Override
+        protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+            return application.sources(SpringbootKaiApplication.class);
+        }
+## 一定要是  war  包
+## 在放到 tomcat中去运行
+###部署
+         2.13.2 点击‘+’号，选择tomcat Server ---> Local
+
+
+
+        2.13.3 编辑名称，点击Fix --------> Apply-------> OK
+
+
+
+        然后点击启动按钮
+
+
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-recruit:war">
+    <output-path>$PROJECT_DIR$/springboot-recruit/target</output-path>
+    <root id="archive" name="springboot-recruit-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-recruit:war exploded" />
+    </root>
+  </artifact>
+</component>

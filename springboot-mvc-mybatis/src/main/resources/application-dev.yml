@@ -1,0 +1,23 @@
+
+server:
+  port: 8080
+
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/hysyfda?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+  mvc:
+      view:
+        prefix: /WEB-INF/views/
+        suffix: .jsp
+
+
+
+mybatis:
+  mapper-locations: classpath:com/kaixuan/springbootmvcmybatis/demo/demoMapper.xml
+  type-aliases-package: com.kaixuan.springbootmvcmybatis
+
+#路径名称按自己需要命名,在WEB-INF下新建文件夹page
+
