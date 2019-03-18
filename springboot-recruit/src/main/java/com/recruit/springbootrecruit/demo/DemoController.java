@@ -5,7 +5,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.servlet.http.HttpServletRequest;
-import java.util.List;
 
 /**
  * @Auther: kaixuan
@@ -32,11 +31,7 @@ public class DemoController {
      */
     @RequestMapping("getUserDemo")
     public String getUser(HttpServletRequest request){
-
-
-
-             List<User> map = demoService.getUser();
-
-              return "message";
+             //List<User> map = demoService.getUser();
+              return "login";
     }
 }
